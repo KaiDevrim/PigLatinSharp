@@ -1,0 +1,11 @@
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\bin\Debug\netcoreapp2.2\PigLatinNET.deps.json
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\bin\Debug\netcoreapp2.2\PigLatinNET.runtimeconfig.json
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\bin\Debug\netcoreapp2.2\PigLatinNET.runtimeconfig.dev.json
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\bin\Debug\netcoreapp2.2\PigLatinNET.dll
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\bin\Debug\netcoreapp2.2\PigLatinNET.pdb
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\obj\Debug\netcoreapp2.2\PigLatinNET.csprojAssemblyReference.cache
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\obj\Debug\netcoreapp2.2\PigLatinNET.csproj.CoreCompileInputs.cache
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\obj\Debug\netcoreapp2.2\PigLatinNET.AssemblyInfoInputs.cache
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\obj\Debug\netcoreapp2.2\PigLatinNET.AssemblyInfo.cs
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\obj\Debug\netcoreapp2.2\PigLatinNET.dll
+C:\Users\Kai Sakurai\source\repos\PigLatinSharp\PigLatinNET\obj\Debug\netcoreapp2.2\PigLatinNET.pdb
